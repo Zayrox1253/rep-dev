@@ -1,0 +1,19 @@
+h1
+{
+    color:  blue;
+}
+
+body
+{
+	background-color: limegreen;
+}
+
+#réponses
+{
+
+       width:  800px;
+       margin:0 auto;
+       background-color: white;
+       text-align: center;
+       align-content: center;
+}
